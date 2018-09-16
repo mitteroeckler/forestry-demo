@@ -16,7 +16,7 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Frauenfussball in Vorarlberg
+sub_heading: Eine Region. Ein Verein. Eine Leidenschaft.
 textline: Der Frauenfußballverein in Vorarlberg
 hero_button:
   text: Learn more
