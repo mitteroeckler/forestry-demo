@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2018/09/14/pacemaker_mountain_homepage.jpg"
+banner_image: "/uploads/2018/09/16/FFC1.jpg"
 layout: landing-page
 heading: FFC fairvesta Vorderland
 partners:
