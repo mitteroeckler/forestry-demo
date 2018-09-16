@@ -17,10 +17,7 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Frauenfussball in Vorarlberg
-textline: |
-  Belkirk College of Engineering
-
-  Ora et Labora
+textline: Der Frauenfußballverein in Vorarlberg
 hero_button:
   text: Learn more
   href: "/about"
